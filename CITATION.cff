@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Borzoi-SE: super-enhancer prediction from DNA sequence with a Borzoi-based model"
+message: "If you use this code or the released model weights, please cite the paper and the Zenodo archive."
+type: software
+authors:
+  - family-names: "[TODO]"
+    given-names: "[TODO]"
+    affiliation: "[TODO]"
+repository-code: "https://github.com/[TODO-USER]/Borzoi-SE"
+license: MIT
+version: "1.0.0"
+date-released: "2026-09-18"
+references:
+  - type: article
+    title: "[TODO: manuscript title]"
+    journal: "[TODO]"
+    doi: "[TODO]"
